@@ -1,14 +1,18 @@
 {
-    "name": "Dungen Crawler",
+    "name": "Dungen Crawler - Copy",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "multiplayer": "*",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.2"
     },
     "files": [
         "main.blocks",
         "main.ts",
         "README.md",
-        "assets.json"
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts"
     ],
     "testFiles": [
         "test.ts"
